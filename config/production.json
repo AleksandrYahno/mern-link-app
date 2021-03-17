@@ -2,5 +2,5 @@
   "port": 80,
   "jwtSecret": "aleksandr mern jwt secret",
   "mongoUri": "mongodb+srv://aleksandr:aleksandr@cluster0.ymwrw.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:80"
+  "baseUrl": "https://blooming-beyond-42949.herokuapp.com/"
 }
